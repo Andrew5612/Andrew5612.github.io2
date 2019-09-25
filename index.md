@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to my Homepage!
 
 You can use the [editor on GitHub](https://github.com/Andrew5612/Andrew5612.github.io2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
